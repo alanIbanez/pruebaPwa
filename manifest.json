@@ -1,0 +1,18 @@
+{
+  "name": "pwaAlan",
+  "short_name": "pwaAlan",
+  "description": "Esto es una prueba de pwa",
+  "background_color": "#f1f2f3",
+  "theme_color": "#f1f2f3",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "img/wpblack2.png",
+        "sizes": "360x360",
+        "type": "image/png"
+      }
+    ]
+}
